@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasedelete",
+        "uuid": 19854891,
+        "checksum": "95pzo"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
